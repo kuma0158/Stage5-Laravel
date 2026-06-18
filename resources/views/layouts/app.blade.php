@@ -26,7 +26,7 @@
         th { background: #f0f3f6; font-weight: 600; }
         .form-group { margin-bottom: 12px; }
         .form-group label { display: block; font-weight: 600; margin-bottom: 4px; font-size: 0.9rem; }
-        .form-group input[type=text], .form-group input[type=email], .form-group input[type=url],
+        .form-group input[type=text], .form-group input[type=email], .form-group input[type=password], .form-group input[type=url],
         .form-group input[type=number], .form-group textarea, .form-group select {
             width: 100%; padding: 8px 10px; border: 1px solid var(--border); border-radius: 4px;
             font-size: 0.95rem; }
